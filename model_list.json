@@ -1,8 +1,10 @@
 {
     "models": [
-        "Pio"
+        "Pio",
+        "xiaomai"
     ],
     "messages": [
-        "Hello Pio"
+        "Hello Pio",
+        "Hello 小埋"
     ]
 }

@@ -1,7 +1,7 @@
 {
     "models": [
-        "Pio",
-        "xiaomai"
+        ["model/Pio/model.json","model/Pio/model1.json","model/Pio/model2.json","model/Pio/model3.json","model/Pio/model4.json","model/Pio/model5.json"],
+        ["model/xiaomai/index.json"]
     ],
     "messages": [
         "Hello Pio",
